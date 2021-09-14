@@ -1,4 +1,4 @@
-# List to do App with GetX
+# Flutter Todo App with GetX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
